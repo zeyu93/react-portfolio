@@ -75,12 +75,13 @@
         "title":"roomR",
         "category": "Optimized Roomate finding App built on Express",
         "image":"roomR.jpeg",
-        "description" : "Colobration app that looks to simplify the roomate finding experience based on personality. Built using NodeJs, Express, Sequelize",
+        "description" : "Colobration project that looks to simplify the roomate finding experience based on personality. Built using NodeJs, Express, Sequelize, Google Maps API & TalkJS API",
         "url":"https://github.com/z79liu/roomR"
       },
       {
         "title":"Drac's Snack",
         "category":"A Simplified online food ordering app",
+        "description" : "A web app that simplifies online food ordering. Built on Node.js, Express, Knex, PostgresSQL & Twilio API.",
         "image":"home-page.png",
         "url":"https://github.com/z79liu/Drac-s-Snack-"
       },
@@ -88,18 +89,21 @@
         "title":"Chatty App",
         "category":"SPA chat app built with react and websocket",
         "image":"chatty.gif",
+        "description" : "A client-side SPA (single-page app) built with ReactJS, Webpack, Babel, Node.js and Web Sockets. The client-side app communicates with a server via WebSockets for multi-user real-time updates. No persistent database is involved; the focus is on the client-side experience and using ReactJS for real time updates.",
         "url":"https://github.com/z79liu/Chatty-App"
       },
       {
         "title":"Tweeter",
         "category":"A Single Page Twitter Clone",
         "image":"tweeter.png",
+        "description": "Twitter clone app using MongoDB & Express",
         "url":"https://github.com/z79liu/tweeter"
       },
       {
         "title":"Jungle",
         "category":"A e-commerce web app built w/ Ruby on Rails.",
         "image":"jungle.png",
+        "description": "E-Commerce App built on Ruby on Rails",
         "url":"https://github.com/z79liu/jungle-rails"
       }
     ]
@@ -107,12 +111,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"The starting point of all achievement is desire",
+        "user":"Napoleon Hill"
       }
     ]
   }
