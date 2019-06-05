@@ -4,7 +4,8 @@
     "occupation":"Full-Stack Web Developer",
     "description":"My desire to continuously learn will always be my greatest strength. Currently looking for a full-stack role.",
     "image":"avatar.png",
-    "bio":"Hi! I am a full stack web developer with a background in finance and e-commerce. I started off my career as a Trade Controll Analyst for CIBC, and completed the CFA exam. Along the way, I established my own company: Ikigai & Soul, that is where I discovered my passion for technology and programming. As the founder of a mid-sized e-commerce company, I am passionate about creating seamless user interfaces that can generate maximum results. That passion along with my 3 years of experience in the financial industry, has given me the skills to bridge the gap between business and technology.",
+    "bio":"Hi! I am a full stack web developer with a background in finance and e-commerce. After I graduated from the University of Waterloo, I started off my career as a Trade Control Analyst for CIBC. Along the way, I ventured off in the field of e-commerce and was able to find sucess and established my own company; Ikigai & Soul ®. As sales grew, I commited myself to being an entrepreneur full time and left my job at CIBC after a memorable year. Some would call it fate, as my decision to become a business owner is what led me to discover my passion for programming. Managaing an online store meant I would not only have to tend to the business side, but also issues behind the scenes. I started playing around with tweaking small snippets of HTML/Javascript to implement basic design changes for my website. As my interest grew stronger, there were more and more features I wanted to implement but did not have the knowledge to. That's when I decided to enroll in the 12 week web development bootcamp at Lighthouse Labs. As the founder of a mid-sized e-commerce company,  I am passionate about creating seamless user interfaces that can generate maximum results. That passion along with my 3 years of experience in the financial industry, has given me the skills to bridge the gap between business and technology.",
+
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "haozai_03@hotmail.com",
     "phone": "416-809-7087",
@@ -39,7 +40,7 @@
       },
       {
         "school":"University of Waterloo",
-        "degree":"Bachelors: Economics/Finance",
+        "degree":"Bachelors: Mathematics - Economics/Finance ",
         "graduated":"April 2016",
         "description":"Completed a four year degree with speclizaition in Finance"
       }
