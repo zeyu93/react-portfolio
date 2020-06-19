@@ -2,9 +2,9 @@ const resumeData = {
   "main": {
     "name":"Zeyu Liu",
     "occupation":"Full-Stack Web Developer",
-    "description":"My desire to continuously learn will always be my greatest strength. Currently looking for a full-stack role.",
+    "description":"As the founder of a large e-commerce company, I truly understand the value of creating seamless UIs and building optimized applications that can generate maximum results.",
     "image":"avatar.png",
-    "bio":"Hi! I am a full stack web developer with a background in finance and e-commerce. After I graduated from the University of Waterloo, I started off my career as a Trade Control Analyst for CIBC. Along the way, I ventured off in the field of e-commerce and was able to find sucess and established my own company; Ikigai & Soul ®. As sales grew, I commited myself to being an entrepreneur full time and left my job at CIBC after a memorable year. Some would call it fate, as my decision to become a business owner is what led me to discover my passion for programming. Managaing an online store meant I would not only have to tend to the business side, but also issues behind the scenes. I started playing around with small snippets of HTML/Javascript to implement basic design changes for my website. As my interest grew stronger, that's when I decided to enroll in the 12 week web development bootcamp at Lighthouse Labs. Bootcamp has taught me invaluable programing skills and up to date with the latest cutting edge web technologies. I am passionate about creating seamless user interfaces that can generate maximum results. That passion along with my experience in the financial industry, has given me the skills to bridge the gap between business and technology.",
+    "bio":"Hi! My name is Zeyu, I am currently working at EllisDon, a global giant construction company as a full stack web developer. Here is my mini autobiography summed pup in one paragraph so you guys can know a little bit more about me!  After I graduated from the University of Waterloo, I started off my career as a Trade Control Analyst for CIBC. Along the way, I ventured off in the field of e-commerce and was able to find sucess and established my own company; Ikigai & Soul ®. As sales grew, I commited myself to being an entrepreneur full time and left my job at CIBC after a memorable year. Some would call it fate, as my decision to become a business owner is what led me to discover my passion for programming. Managaing an online store meant I would not only have to tend to the business side, but also issues behind the scenes. I started playing around with small snippets of HTML/Javascript to implement basic design changes for my website. As my interest grew stronger, that's when I decided to enroll in the 12 week web development bootcamp at Lighthouse Labs. Bootcamp has taught me invaluable programing skills and up to date with the latest cutting edge web technologies. I am passionate about creating seamless user interfaces that can generate maximum results. That passion along with my experience in the financial industry, has given me the skills to bridge the gap between business and technology.",
 
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "haozai_03@hotmail.com",
@@ -13,7 +13,7 @@ const resumeData = {
       "city":"Toronto"
     },
     "website": "http://www.zeyu-liu.com",
-    "resumedownload":"https://resume.creddle.io/resume/3tgsfsza97m",
+    "resumedownload":"https://app.enhancv.com/share/15591f69?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic",
     "social":[
       {
         "name":"linkedin",
@@ -22,7 +22,7 @@ const resumeData = {
       },
       {
         "name":"github",
-        "url":"https://github.com/z79liu",
+        "url":"https://github.com/zeyu93",
         "className":"fa fa-github"
       }
     ]
@@ -46,6 +46,12 @@ const resumeData = {
       }
     ],
     "work":[
+      {
+        "company":"EllisDon",
+        "title":"Full Stack Developer",
+        "years":"July 2019 - Present",
+        "description":"Built RESTful APIs & responsive front-end applications in React.JS"
+      },
       {
         "company":"Ikigai & Soul",
         "title":"Founder",

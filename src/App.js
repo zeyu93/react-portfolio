@@ -11,6 +11,7 @@ import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 import Skills from "./Components/Skills";
 import resumeData from "./Constants/ResumeData";
+import NewSkills from "./Components/NewSkills"
 
 class App extends Component {
   constructor(props) {
@@ -38,8 +39,8 @@ class App extends Component {
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
-        <Skills />
         <Portfolio data={this.state.resumeData.portfolio} />
+        <Skills />
         <Testimonials data={this.state.resumeData.testimonials} />
         <Footer data={this.state.resumeData.main} />
       </div>
