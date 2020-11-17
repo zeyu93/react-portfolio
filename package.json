@@ -5,8 +5,10 @@
   "dependencies": {
     "antd": "^4.3.4",
     "aws-amplify": "^1.1.28",
+    "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
     "react": "^16.2.0",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-scripts": "1.0.17"

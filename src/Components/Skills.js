@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Skills extends Component {
   render() {
     return (
-      <section id="skills">
+      <section id="skills" style={{ padding: '30px' }}>
         <h1>My Skills</h1>
         <div className="skills">
           <div className="skill-1">
@@ -20,8 +20,8 @@ class Skills extends Component {
           </div>
           <div className="skill-3">
             <img
-              src="https://cms-assets.tutsplus.com/uploads/users/34/posts/26587/preview_image/preview.jpg"
-              alt="rails"
+              src="https://zdnet3.cbsistatic.com/hub/i/r/2018/02/16/8abdb3e1-47bc-446e-9871-c4e11a46f680/resize/470xauto/2ea638bf5532abe5081dabb0fbecbc2d/mongo-db-logo.png"
+              alt="mongodb"
             />
           </div>
 
@@ -57,6 +57,34 @@ class Skills extends Component {
             <img
               src="https://git-scm.com/images/logos/2color-lightbg@2x.png"
               alt="git"
+            />
+          </div>
+        </div>
+        <br></br>
+        <div className="skills">
+          <div className="skill-1">
+            <img
+              src="https://zdnet2.cbsistatic.com/hub/i/r/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/resize/370xauto/51e7a7c321c6531276c81ec376c7622e/redis-logo-2.png"
+              alt="redis"
+            />
+          </div>
+          <div className="skill-2">
+            <img
+              src="https://www.logopik.com/wp-content/uploads/edd/2018/06/Docker-Vector-Logo.png"
+              alt="docker"
+            />
+          </div>
+          <div className="skill-3">
+            <img
+              src="https://www.onlogic.com/company/io-hub/wp-content/uploads/2013/07/socket-io-logo.jpg"
+              alt="SocketIo"
+            />
+          </div>
+
+          <div className="skill-3">
+            <img
+              src="https://blog.theodo.com/static/726bca67a2c328a64b12d14e79f36e88/50383/react-hook-1024x512.png"
+              alt="react-hooks"
             />
           </div>
         </div>
